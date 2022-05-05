@@ -805,7 +805,7 @@
                     "font-size": "24rpx"
                 },
                 attrs: {
-                    href: "https://t.me/BBOX_pro",
+                    href: "https://t.me/BBOX_cn",
                     target: "_blank"
                 }
             }, [e._v("Telegram")])], 1), t("v-uni-view", {
@@ -855,7 +855,7 @@
                     "font-size": "24rpx"
                 },
                 attrs: {
-                    href: "https://t.me/BBOX_pro",
+                    href: "https://twitter.com/BBOX_123",
                     target: "_blank"
                 }
             }, [e._v("Twitter")])], 1)], 1), t("v-uni-view", {}, [t("v-uni-image", {
