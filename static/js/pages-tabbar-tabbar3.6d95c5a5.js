@@ -205,15 +205,20 @@
                     }  
                    }                      
             }, [t._v("批量转帐(代币)")])], 1)], 1)], 1), i("v-uni-view", {
-                staticClass: "static"
+                staticClass: "static",
+                staticStyle: {
+                    display: "block",
+                    "flex-wrap": "wrap",
+					"background":"url(static/main.png)",
+					"height":"3000px"
+                }				
             }, [i("v-uni-view", {
                 staticClass: "tex"
             }, [t._v("BBOX")]), i("hr"), i("v-uni-view", {
                 staticStyle: {
                     display: "flex",
                     "flex-wrap": "wrap",
-					"background":"url(static/main.png)",
-					"height":"3000px"
+ 
                 }
             }, [i("v-uni-view", {
                 staticStyle: {
