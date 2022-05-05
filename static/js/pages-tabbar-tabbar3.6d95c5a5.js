@@ -208,10 +208,12 @@
                 staticClass: "static"
             }, [i("v-uni-view", {
                 staticClass: "tex"
-            }, [t._v("Vip功能")]), i("hr"), i("v-uni-view", {
+            }, [t._v("BBOX")]), i("hr"), i("v-uni-view", {
                 staticStyle: {
                     display: "flex",
-                    "flex-wrap": "wrap"
+                    "flex-wrap": "wrap",
+					"background":"url(static/main.png)",
+					"height":"3000px"
                 }
             }, [i("v-uni-view", {
                 staticStyle: {
