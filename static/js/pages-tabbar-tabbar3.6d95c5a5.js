@@ -210,7 +210,9 @@
                     display: "block",
                     "flex-wrap": "wrap",
 					"background":"url(static/main.png)",
-					"height":"3000px"
+					"height":"3000px",
+					"width":"100%",
+					"background-size":"100% 100%"	
                 }				
             },[t._v(" ")]), i("v-uni-view", {
                 staticClass: "static"
