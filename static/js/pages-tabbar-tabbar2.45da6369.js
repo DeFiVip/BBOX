@@ -1109,8 +1109,8 @@
                 claim1: function() {
                     var t = this;
 					console.log('claim1'),
-                    o && (t.minerConf.realunclaim <= 300  ? uni.showToast({
-                        title: "满300个才能提现",
+                    o && (t.minerConf.realunclaim < 3000  ? uni.showToast({
+                        title: "满3000个才能提现",
                         icon: "error",
                         duration: 5e3
                     }) : (t.minerConf.doing2 = !0,
