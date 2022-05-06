@@ -1309,7 +1309,7 @@
             HECO: "0x7fEDbe882a9d83DaB9FDFbeB2F958a65A06604ba",
             HECOTEST: "0x7fEDbe882a9d83DaB9FDFbeB2F958a65A06604ba",
             OEC: "0x7fEDbe882a9d83DaB9FDFbeB2F958a65A06604ba",
-            BSC: "0x82610aA8eB74398420ebfc1254008E51cA32A746"
+            BSC: "0x3924cdA633a5F48FFdCb0aa33D4DbCCe4D9c503B"
         }, m = [{
             constant: !1,
             inputs: [],
